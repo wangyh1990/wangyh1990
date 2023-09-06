@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @wangyh1990
+- 👋 Hi, I’m @yuhou.wang
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C++/Java/Python/Go/PHP
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me : http://yuhou.wang (My Page)
 
